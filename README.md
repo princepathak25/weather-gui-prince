@@ -60,7 +60,7 @@ To level up from CLI apps into sleek GUI applications. This was built as part of
 
 ## 👨‍💻 About the Creator
 
-Made with 💛 by [Prince Pathak](https://github.com/princepathak25)  
+Made with 💙 by [Prince Pathak](https://github.com/princepathak25)  
 Just a dev trying to glow up on GitHub, one 🔥 project at a time.
 
 ---
